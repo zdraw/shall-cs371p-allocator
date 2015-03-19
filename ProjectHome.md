@@ -1,0 +1,1 @@
+This allocator will manage a heap containing a user-defined type and size.
